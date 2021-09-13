@@ -1,0 +1,11 @@
+For nearly a year and a half, I had trouble contributing to my Github profile. 
+Contributions would not appear. This could be the solution, posting for everyone to be able to see it.
+
+https://stackoverflow.com/questions/22844806/how-to-change-my-git-username-in-terminal
+
+very useful in general, if you have multiple Github's or remote workspaces.
+
+git config [--global] --replace-all user.name "Full Name"
+git config [--global] --replace-all user.email "email@address.com"
++
+git config --global credential.username "new_username"
